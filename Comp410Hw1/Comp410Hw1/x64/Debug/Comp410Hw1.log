@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\Angel.h(64,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(765,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(766,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(767,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(788,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(790,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(793,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\mat.h(810,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(12,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(131,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(132,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(133,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(183,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(184,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(189,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(285,41): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(349,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(371,33): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(370,51): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(376,15): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw1\Comp410Hw1\main.cpp(375,40): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+  Comp410Hw1.vcxproj -> C:\Users\POSE\source\repos\Comp410Hw1\x64\Debug\Comp410Hw1.exe
