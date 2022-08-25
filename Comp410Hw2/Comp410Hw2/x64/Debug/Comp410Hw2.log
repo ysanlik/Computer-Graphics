@@ -1,0 +1,10 @@
+﻿  InitShader.cpp
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\POSE\source\repos\Comp410Hw2\Comp410Hw2\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Comp410Hw2.vcxproj -> C:\Users\POSE\source\repos\Comp410Hw2\x64\Debug\Comp410Hw2.exe
